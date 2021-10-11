@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/motinle/FlutterSDK.git', :branch => 'master' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
 #  s.source_files = 'KGFlutter/Classes/**/*'
    s.ios.vendored_frameworks = 'build_flutter_ios/debug/*.framework'
