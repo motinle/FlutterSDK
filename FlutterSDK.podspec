@@ -30,5 +30,5 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
 #  s.source_files = 'KGFlutter/Classes/**/*'
-   s.ios.vendored_frameworks = 'build_flutter_ios/*.framework'
+   s.ios.vendored_frameworks = 'build_flutter_ios/*.framework','build_flutter_ios/*/*.framework'
 end
