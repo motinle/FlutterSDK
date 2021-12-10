@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'FlutterSDK'
+  s.name             = 'flutter_archive'
   s.version          = '0.1.0'
   s.summary          = 'this is a very strong test demo'
   s.authors          = 'test'
